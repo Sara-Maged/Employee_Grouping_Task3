@@ -12,7 +12,7 @@ public class Employee {
 	    }
 	 
 	 @Override public String toString() {
-		 return String.format("%s - %s \n", name, mobile); 
+		 return String.format("\nName %s - Mobile %s", name, mobile); 
 		 }
 
 
